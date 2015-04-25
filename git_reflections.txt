@@ -3,3 +3,6 @@ of Udacity projects.
 
 This is an entry made after the git_reflecitons.txt file was added to the staging area.
 
+The staging area helps in making each commit correspond to a single logical change by packaging several file changes together that create that single logical difference. It allows to arrange the changes you want to package together as one unit and commit those.
+
+
