@@ -5,4 +5,4 @@ This is an entry made after the git_reflecitons.txt file was added to the stagin
 
 The staging area helps in making each commit correspond to a single logical change by packaging several file changes together that create that single logical difference. It allows to arrange the changes you want to package together as one unit and commit those.
 
-
+Branching is something I can theoretically understand but practically don't use at this time.  I am hoping to learn and utilize it in the near future so that not only do I become more proficient with the mechanics of it but I also understand its usefulness and applicability at a deeper theoretical level.
