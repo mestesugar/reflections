@@ -1,0 +1,5 @@
+this is a test file to assist in learning how to use git to track the development
+of Udacity projects.
+
+This is an entry made after the git_reflecitons.txt file was added to the staging area.
+
